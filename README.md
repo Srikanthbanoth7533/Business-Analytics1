@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/battina1999/airline-data-platform/actions/workflows/ci.yml"><img src="https://github.com/battina1999/airline-data-platform/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <a href="https://battina1999.github.io/airline-data-platform/lineage/"><img src="https://img.shields.io/badge/dbt%20docs-lineage%20site-FF694B?logo=dbt&logoColor=white" alt="dbt docs"></a>
+  <a href="https://github.com/Srikanthbanoth7533/Business-Analytics1/actions/workflows/ci.yml"><img src="https://github.com/Srikanthbanoth7533/Business-Analytics1/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://Srikanthbanoth7533.github.io/Business-Analytics1/lineage/"><img src="https://img.shields.io/badge/dbt%20docs-lineage%20site-FF694B?logo=dbt&logoColor=white" alt="dbt docs"></a>
   <img src="https://img.shields.io/badge/data-3.45M%20real%20BTS%20flights-1f3b5c" alt="real data">
 </p>
 
 <p align="center">
-  🚀 <b><a href="https://battina1999.github.io/airline-data-platform/">LIVE DASHBOARD</a></b> ·
-  📊 <b><a href="https://battina1999.github.io/airline-data-platform/lineage/">Data catalog & lineage</a></b> ·
+  🚀 <b><a href="https://Srikanthbanoth7533.github.io/Business-Analytics1/">LIVE DASHBOARD</a></b> ·
+  📊 <b><a href="https://Srikanthbanoth7533.github.io/Business-Analytics1/lineage/">Data catalog & lineage</a></b> ·
   📐 <b><a href="docs/kpi_definitions.md">KPI definitions</a></b> ·
   🔬 <b><a href="docs/data_profile.md">Real-data profile</a></b>
 </p>
@@ -177,6 +177,16 @@ Power BI · Docker · Pandas**
 - dbt docs site with lineage, freshness SLAs, and Airflow alerting
 - CI (dbt build + Great Expectations on a sample) on every pull request
 
+## Author & Contact
+- **Author:** Srikanth Banoth
+- **Mobile:** 9392327533
+- **Gmail:** [banothsrikanth75338@gmail.com](mailto:banothsrikanth75338@gmail.com)
+- **GitHub:** [Srikanthbanoth7533](https://github.com/Srikanthbanoth7533)
+
 ---
 
-<p align="center"><i>Built by Dhanush Battina · data engineering portfolio project</i></p>
+<p align="center">
+  <b>Built by Srikanth Banoth</b><br>
+  📱 Mobile: 9392327533 · ✉️ Gmail: <a href="mailto:banothsrikanth75338@gmail.com">banothsrikanth75338@gmail.com</a><br>
+  <i>Data engineering portfolio project</i>
+</p>

@@ -4,9 +4,9 @@
 
 The primary airline dashboard is a static website hosted free by GitHub Pages:
 
-- Dashboard: <https://battina1999.github.io/airline-data-platform/>
-- dbt catalog and lineage: <https://battina1999.github.io/airline-data-platform/lineage/>
-- Optional Streamlit version: <https://airline-ops-battina.streamlit.app/>
+- Dashboard: <https://Srikanthbanoth7533.github.io/Business-Analytics1/>
+- dbt catalog and lineage: <https://Srikanthbanoth7533.github.io/Business-Analytics1/lineage/>
+- Optional Streamlit version: <https://airline-ops-srikanth.streamlit.app/>
 
 “Static” means the browser downloads HTML, CSS, JavaScript, and a small JSON data file. There is no server to start when someone visits, so the GitHub Pages dashboard does not go to sleep.
 

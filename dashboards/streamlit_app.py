@@ -186,10 +186,11 @@ def main() -> None:
     st.sidebar.caption(f"**Data:** {provenance()}")
     st.sidebar.caption(f"**Serving from:** {source}")
     st.sidebar.markdown(
-        "[KPI definitions](https://github.com/battina1999/airline-data-platform/blob/main/docs/kpi_definitions.md) · "
-        "[Always-on dashboard](https://battina1999.github.io/airline-data-platform/) · "
-        "[Lineage](https://battina1999.github.io/airline-data-platform/lineage/) · "
-        "[Repo](https://github.com/battina1999/airline-data-platform)")
+        "[KPI definitions](https://github.com/Srikanthbanoth7533/Business-Analytics1/blob/main/docs/kpi_definitions.md) · "
+        "[Always-on dashboard](https://Srikanthbanoth7533.github.io/Business-Analytics1/) · "
+        "[Lineage](https://Srikanthbanoth7533.github.io/Business-Analytics1/lineage/) · "
+        "[Repo](https://github.com/Srikanthbanoth7533/Business-Analytics1)")
+    st.sidebar.caption("Author: Srikanth Banoth | Mobile: 9392327533 | banothsrikanth75338@gmail.com")
 
     st.title("Airline Operations Analytics")
     st.caption(f"{provenance()} — built by the dbt star schema, definitions in docs/kpi_definitions.md")
